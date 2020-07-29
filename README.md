@@ -37,14 +37,7 @@ Screen will pull up current weeks football games. So you just have to make your 
 
 ### Prerequisites
 
-Go into package.json & add the following
-
--   "homepage": "https://jimdenis.github.io/football-pool",
-
-Within "Scripts" add
-
--   "predeploy": "npm run build",
--   "deploy": "gh-pages -d build",
+None.
 
 ### Installing
 
