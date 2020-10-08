@@ -75,7 +75,8 @@ test with NPM START to run on you machine
 -   **JIM Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
 
 A tutorial for the website can be found at ....
-https://mail.google.com/mail/u/0/?tab=rm#sent/DmwnWrRpccgnRVXWjcvDtszvQcwhZmKNFlLCtjmcZGwxZnwDWwxLNDgnBSFxQdrbldBTbVxbVxcG?projector=1
+https://drive.google.com/file/d/1NPJofrjPsBNPpZsO9hmX0nrlvXsNrr9G/view?usp=sharing
+
 
 This app can be found on https://jimdenis.github.io/football-pool/
 
